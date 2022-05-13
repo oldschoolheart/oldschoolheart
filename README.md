@@ -1,2 +1,3 @@
 - Just Starting
 - Male
+- Learning to code
